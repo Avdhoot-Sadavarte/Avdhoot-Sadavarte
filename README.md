@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avdhoot-Sadavarte.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML,CSS & JAVASCRIPT.
-- AUTHOR-AVDHOOT.
+-    AUTHOR-AVDHOOT.
 
 <!---
 Avdhoot-Sadavarte/Avdhoot-Sadavarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
